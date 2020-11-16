@@ -1,0 +1,14 @@
+.poster{
+    border-radius: 10px;
+    margin-top: 15%;
+}
+
+.like{
+    background-color: #0cadab;
+    color: #fff;
+    border-radius: 30px;
+}
+
+.view{
+    border-radius: 30px;   
+}
